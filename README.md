@@ -5,7 +5,7 @@
 
 - 🎓 Estudante de **Desenvolvimento de Sistemas**
 - 💻 Focado em Python, HTML e CSS 
-- 📱 Interesse especial em **Desenvolvimento Web e Desenvolvimento de App** e **Desenvolvimento Full Stack* 
+- 📱 Interesse especial em **Desenvolvimento Web e Desenvolvimento de App** e **Desenvolvimento Full Stack**
 - 🚀 Apaixonado por criar coisas novas! 
 ## Tecnologias que estudo
 <div style="display: inline_block"><br> 

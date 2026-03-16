@@ -1,8 +1,6 @@
 ## 👋 Olá, eu sou a Evelyn!
 ## Sobre mim 
 
-## Sobre mim 
-
 - 🎓 Estudante de **Desenvolvimento de Sistemas**
 - 💻 Focado em Python, HTML e CSS 
 - 📱 Interesse especial em **Desenvolvimento Web e Desenvolvimento de App** e **Desenvolvimento Full Stack**
